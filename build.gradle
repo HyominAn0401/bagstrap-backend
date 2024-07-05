@@ -30,8 +30,11 @@ dependencies {
     implementation 'io.springfox:springfox-boot-starter:3.0.0'
     implementation 'io.springfox:springfox-swagger-ui:3.0.0'
 
+<<<<<<< HEAD
     implementation 'com.itextpdf:itextpdf:5.5.13.4'
 
+=======
+>>>>>>> b117330877362ef50c5cec43e588afa837d8ca12
 }
 
 test {
